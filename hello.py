@@ -1,1 +1,1 @@
-print('hello world from test script')
+print("Hello, World!")
